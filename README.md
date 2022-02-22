@@ -1,7 +1,7 @@
 # Project Name
 Ascii Lines
 # Copyright notice
-Code written by Ryan Sanford under direction of Bart Massey
+Code written by Jen Sanford under direction of Bart Massey
 # Program Description
 This program parses a TVG file and prints the parsed output to the console
 # Program Usage
