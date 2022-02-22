@@ -1,5 +1,5 @@
 /*
-Programmer: Ryan Sanford
+Programmer: Jen Sanford
 Program: ASCII Lines (Assignment 1)
 Date: 7/2/2019
 */
